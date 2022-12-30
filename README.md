@@ -36,19 +36,19 @@ Being the first week we learnt about HTML and basic CSS.
 ## What Problems Did we Solve?
 I created a landing page that incorporated a from, button and nav using HTML and CSS. Also a created a professional README file from scratch. 
   
-As this was only week number onw, this proved to be a difficult task. However working through the challenge and overcoming this, afforded a very satisfying result.
+As this was only week number one, this proved to be a difficult task. However working through the challenge and overcoming this, afforded a very satisfying result.
 
 # Installation
 
 N/A
 
 # Usage
-To use and view this challenge please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Ben-Armstrong-Portfolio/" 
+To use and view this challenge please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Ben-Armstrong-Activity-One-Mini-Project/" 
 
-My Web Development Portfolio webpage includes a navigation bar, a professional head shot image, multiple links (placeholders at this stage) to projects completed within the UniSA Full Stack Web Development course, and working links to contact me - you can even download a updated resume.
+The deployed webpage includes a functioning navigation bar, which will take you to my GitHub and also Portfolio that was completed in a challenge.
 The following image shows the web application's appearance:
 
-![My Web Development Portfolio webpage includes a navigation bar, a professional head shot image, multiple links (placeholders at this stage) to projects completed within the UniSA Full Stack Web Development course, and working links to contact me - even download an updated resume.](./Images/BenArmstrongPortfolioWebsiteScreenShot.JPG)
+![My Web Development Portfolio webpage includes a navigation bar, a professional head shot image, multiple links (placeholders at this stage) to projects completed within the UniSA Full Stack Web Development course, and working links to contact me - even download an updated resume.](./Assets/images/Deployed%20Site.png)
 
 # Credits
 With special thanks to the UniSA Full Stack Web Development Class.
