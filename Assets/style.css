@@ -22,6 +22,9 @@
     border-color: #ddaf94;
     border-width: 10px;
 }
+div {
+    padding: 8px;
+}
 
 .nav-bar nav li{
     display: flex;
@@ -51,7 +54,7 @@ main {
 }
 
 .coming-soon-element {
-padding-block: 25px;
+padding-block: 20px;
 }
 
 p {
@@ -59,11 +62,17 @@ p {
     font-size: 20px;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 .contact-section {
     background-color: #e8cebf;
     border-top-style: inset;
     border-color: #ddaf94;
     border-width: 8px;
+    padding-bottom: 8px;
 }
 
 #name, #email {
@@ -71,10 +80,6 @@ box-sizing: border-box;
 border-color: black;
 width: 350px;
 padding-bottom: 8px;
-}
-
-.contact-label{
-/* color: re; */
 }
 
 .contact-text {
