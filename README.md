@@ -43,7 +43,7 @@ As this was only week number one, this proved to be a difficult task. However wo
 N/A
 
 # Usage
-To use and view this challenge please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Ben-Armstrong-Activity-One-Mini-Project/" 
+To use and view this challenge please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Bens-Mini-Project-1/" 
 
 The deployed webpage includes a functioning navigation bar, which will take you to my GitHub and also Portfolio that was completed in a challenge.
 The following image shows the web application's appearance:
